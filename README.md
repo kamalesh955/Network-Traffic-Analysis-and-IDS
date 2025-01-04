@@ -25,7 +25,7 @@ A Python-based tool for analyzing network traffic from PCAP files. The tool extr
 - **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/pcap-analysis-ddos-detection.git
+git clone https://github.com/kamalesh955/Network-Traffic-Analysis-and-IDS.git
 cd pcap-analysis-ddos-detection
 ```
  **Run the code**:
@@ -34,8 +34,10 @@ cd pcap-analysis-ddos-detection
 python main.py
 ```
 
--**Select the PCAP file via the file dialog box.**
--**View extracted features and generated visualizations**
--**Analyze results for potential DDoS attacks.**
+-**Select the PCAP file via the file dialog box.**:
+
+-**View extracted features and generated visualizations**:
+
+-**Analyze results for potential DDoS attacks.**:
 
 
