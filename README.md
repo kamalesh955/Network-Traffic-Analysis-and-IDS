@@ -20,3 +20,15 @@ A Python-based tool for analyzing network traffic from PCAP files. The tool extr
   Install the required libraries using pip:
   ```bash
   pip install scapy pandas matplotlib seaborn
+
+### Installation
+- **Clone the repository**:
+
+```bash
+git clone https://github.com/yourusername/pcap-analysis-ddos-detection.git
+cd pcap-analysis-ddos-detection
+Run the tool:
+
+```bash
+python main.py
+
