@@ -20,7 +20,11 @@ A Python-based tool for analyzing network traffic from PCAP files. The tool extr
   Install the required libraries using pip:
   ```bash
   pip install scapy pandas matplotlib seaborn
-
+  ```
+  OR
+  ```bash
+  pip install -r requirements.txt
+  ```
 ### Installation
 - **Clone the repository**:
 
